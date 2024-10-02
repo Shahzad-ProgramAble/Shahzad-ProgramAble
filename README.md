@@ -1,9 +1,13 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.youtube.com/@program_able5814)
 <h1 align="center">Hi 👋, I'm Shahzad Farooq</h1>
 <h3 align="center">A passionate developer from Pakistan, Are you program_able?</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzad-programable&label=Profile%20views&color=0e75b6&style=flat" alt="shahzad-programable" /> </p>
+<img align="right"  alt="Coding"  width="400"  src="https://www.aictsd.com/wp-content/uploads/2023/02/Student-on-computer-gif1.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzad-programable" alt="shahzad-programable" /></a> </p>
+<p alignshahzad-programable" alt="shahzad-programable?username=shahzad-programable&label=Profile%20views&color=0e75b6&style=flat" alt="shahzad-programable" /> </p>
+
+
+
 
 - 💬 Ask me about **react, python, Javascript, typescript, appscript**
 
